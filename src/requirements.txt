@@ -1,0 +1,8 @@
+click
+elasticsearch>=7.0.0,<8.0.0
+es_pandas
+numpy
+pandas
+progressbar2
+PyYAML
+tqdm
